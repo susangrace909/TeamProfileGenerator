@@ -1,6 +1,6 @@
 header {
-  color: rgb(0, 0, 0);
-  background-color: rgba(23, 114, 55, 0.591);
+  color: white;
+  background-color: rgba(197, 3, 3, 0.584);
   padding: 10px;
   display: flex;
   justify-content: center;
@@ -23,7 +23,7 @@ main {
 
 .card-header {
   color: white;
-  background-color: rgba(197, 3, 3, 0.584);
+  background-color: rgb(0, 0, 255);
 }
 
 .list-group {
