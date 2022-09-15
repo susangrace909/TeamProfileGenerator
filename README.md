@@ -20,4 +20,5 @@
 
 ## Video of Functionality:
 
-![Videos of Functionality](https://drive.google.com/drive/folders/1u0IvKyhMbRYMVlqiKDkeR43xURvzVMn3?usp=sharing)
+- Videos of functionality can be found at: <br />
+  [Videos](https://drive.google.com/drive/folders/1u0IvKyhMbRYMVlqiKDkeR43xURvzVMn3?usp=sharing)
