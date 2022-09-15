@@ -1,0 +1,41 @@
+header {
+  color: rgb(0, 0, 0);
+  background-color: rgba(23, 114, 55, 0.591);
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  font-size: 2em;
+  margin: 15px;
+  padding: 10px;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 15px;
+  padding: 10px;
+}
+
+.card {
+  padding: 10px;
+  margin: 15px;
+}
+
+.card-header {
+  color: white;
+  background-color: rgba(197, 3, 3, 0.584);
+}
+
+.list-group {
+  color: black;
+}
+
+/* MAKE IT ALL ON ONE LINE AND SMALLER */
+.list-group-item {
+  white-space: nowrap;
+  overflow: visible;
+}
+
+#email {
+  color: rgba(0, 0, 255, 0.584);
+}

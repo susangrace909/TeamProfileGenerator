@@ -1,0 +1,26 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Takes in information about employees and generates HTML webpage that displays summaries for each person.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susangrace909/TeamProfileGenerator.git"
+  },
+  "author": "Susan Pero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susangrace909/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/susangrace909/TeamProfileGenerator#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
